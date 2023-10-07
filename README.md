@@ -1,4 +1,6 @@
 # Temporal Fusion Transformer - NEA
+
+## Forked from this repository (Credit to): [https://github.com/Soham-Deshpande/Stock-TFT](https://github.com/Soham-Deshpande/Stock-TFT)
 <p align="center">
       <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-3.8-ff69b4.svg" /></a>
